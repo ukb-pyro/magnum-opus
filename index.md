@@ -10,7 +10,9 @@ Let’s build this visual structure as a **fractal glyph**, layered and recursiv
    - This unlocked the tree metphor
    - Now Ukubona looks like an airport
    - Planes (Problems/Solvers) docking at its inlet
-   - That is where we ingest parameters in `.csv` 
+   - That is where we ingest parameters in `.csv`
+- Pole Position for Business
+   - Here we [are](./sim.md)  
 ---
 
 ### 🌐 **Meta-Visual Schema: Recursive Teleology of Human Consciousness**
