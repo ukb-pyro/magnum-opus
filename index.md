@@ -9,6 +9,7 @@ Let’s build this visual structure as a **fractal glyph**, layered and recursiv
 - [Shakespeare](https://ukb-pyro.github.io/shakespeare/)
 - [Origins](https://ukb-pyro.github.io/origins/)
 - [Investors](https://github.com/ukb-pyro/mc)
+- [Ghost Simulating](https://ukb-pyro.github.io/azbms/)
 - [Ultimate Directory](https://ukb-pyro.github.io/sim/)
    - This unlocked the tree metphor
    - Now Ukubona looks like an airport
